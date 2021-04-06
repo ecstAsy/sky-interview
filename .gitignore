@@ -3,6 +3,9 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+.vscode
+.history
+/node_moudles
 
 # Other files and folders
 .settings/

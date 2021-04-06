@@ -2,9 +2,9 @@
 
 * for of 和 for in 的区别
 
-    - __for of__: 以任意顺序迭代对象的 *可枚举属性*
+    - __for of__: 遍历可迭代对象定义要迭代的值
 
-    - __for in__: 遍历可迭代对象定义要迭代的数据
+    - __for in__: 任意顺序迭代对象的 *可枚举属性*
 
 ```js
 Object.prototype.objCustom = function() {};
