@@ -1,6 +1,7 @@
 <h3 align='center'>前端面试题目</h3>
 
 ## HTML篇
+  - [语义化标签](/Html/semantization.md)
 
 ## CSS篇
 
