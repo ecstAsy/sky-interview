@@ -39,7 +39,7 @@
 
 * 图示
 
-![语义化](../assets/semantization.png)
+    ![语义化](../assets/semantization.png)
 
 * 注意
   - 尽可能少的使用无语义的标签div和span
