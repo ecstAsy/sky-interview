@@ -16,5 +16,7 @@
   - [__inherit__【js中的继承】](/JavaScript/inherit.md)
   - [__server-client-rendering__ 【服务端渲染和客户端渲染】](/JavaScript/server-client-rendering.md)
 
+## HTTP篇
+  - [__HTTP状态码__ ](/HTTP/status-code.md)
 ## 总结篇
   - [从输入URL到页面加载过程](/URL-Render/index.md)
